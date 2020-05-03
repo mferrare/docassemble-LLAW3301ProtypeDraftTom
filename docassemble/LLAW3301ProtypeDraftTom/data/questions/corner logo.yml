@@ -1,0 +1,23 @@
+---
+
+---
+image sets:
+  freepik:
+    attribution: |
+      Icon made by
+      [Freepik](http://www.flaticon.com/authors/freepik)
+    images:
+      baby: eoclogo.jpg
+--- 
+question: |
+  *Welcome To The EOC Complaints Directory* 
+
+subquestion: |
+ Insert Main Text Here (Includes disclaimer, information about exemptions (provided EOC contact details if selected), explains purpose of the EOC Complaint Directory and how to use the application.)
+
+buttons:
+  - Return To Website: exit
+    url: https://eoc.sa.gov.au/
+  - I Understand and Wish to Continue: restart
+  
+mandatory: True
