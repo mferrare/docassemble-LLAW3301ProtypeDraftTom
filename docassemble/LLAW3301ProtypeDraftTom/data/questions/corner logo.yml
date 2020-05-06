@@ -7,7 +7,7 @@ image sets:
       Icon made by
       [Freepik](http://www.flaticon.com/authors/freepik)
     images:
-      baby: eoclogo.jpg
+      baby: eoc_logo.jpg
 --- 
 question: |
   *Welcome To The EOC Complaints Directory* 
@@ -21,3 +21,5 @@ buttons:
   - I Understand and Wish to Continue: restart
   
 mandatory: True
+decoration: baby
+---
